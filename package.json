@@ -1,0 +1,13 @@
+{
+  "name": "static",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "gitHead": "149ba936713855fd1c3b02d0fb7439e97d665c71"
+}
