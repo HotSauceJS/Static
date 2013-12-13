@@ -9,5 +9,8 @@
   "repository": "",
   "author": "",
   "license": "BSD",
-  "gitHead": "149ba936713855fd1c3b02d0fb7439e97d665c71"
+  "gitHead": "149ba936713855fd1c3b02d0fb7439e97d665c71",
+  "dependencies": {
+    "express": "~3.4.7"
+  }
 }
